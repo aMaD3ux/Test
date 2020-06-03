@@ -1,0 +1,10 @@
+Command 	Action
+Ctrl-b		Go back one page
+Ctrl-f		Go forward one page
+x 		Delete the character the cursor is on
+Shift-x		Delete the character before the cursor
+dd 		Delete the current line
+Shift-d		Delete everything from the cursor to the end of the line
+u 		Undelete a line you just deleted
+Shift-u		Undo all changes to the current line
+Shift-z-z 	Save your file and exit the vi editor
